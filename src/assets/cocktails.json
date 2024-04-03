@@ -1,0 +1,6 @@
+[
+    { "name": "Mojito", "price": 8, "image": "mojito.jpg" },
+    { "name": "Cosmo", "price": 10, "image": "cosmo.jpg" },
+    { "name": "Pina Colada", "price": 12, "image": "pina.jpg" }
+    
+  ]
